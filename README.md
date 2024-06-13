@@ -1,4 +1,4 @@
-# STL---VL_Vector
+# STL-VL_Vector
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -10,7 +10,7 @@
 - [Usage](#usage)
 
 ## Introduction
-Welcome to the STL---VL_Vector project! This repository contains an efficient implementation of the well-known vector (STL) in C++. The project aims to provide a robust and high-performance vector class with additional functionalities.
+Welcome to the STL-VL_Vector project! This repository contains an efficient implementation of the well-known vector (STL) in C++. The project aims to provide a robust and high-performance vector class with additional functionalities.
 
 ![VL_Vector](https://www.richardhnguyen.com/static/8b8014a377520dede83b7bfd3a317c8d/cf1a2/what-is-vector.webp)
 
